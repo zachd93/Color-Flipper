@@ -1,0 +1,52 @@
+#display-box {
+    font-family: 'Inter', sans-serif;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 15%;
+    width: 25%;
+    background-color: black;
+    color: white;
+    border-color: black;
+    text-transform: capitalize;
+    
+}
+
+#btn {
+    font-family: 'Inter', sans-serif;
+    margin-top: 20px;
+    margin-left: 50%;
+    border: solid;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100px;
+    background-color: transparent;
+}
+
+body {
+    background-color: white;
+    font-size: 20px;
+}
+
+#header {
+    height: 200%;
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+    border: 20px solid white;
+    width: 100%;
+    margin: -10px;
+}
+
+#page-1 {
+    margin-left: 450px;
+}
+
+#page-2 {
+    margin-left: 500px;
+}
